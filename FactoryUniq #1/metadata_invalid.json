@@ -1,0 +1,40 @@
+{
+    "specVersion": "1.0",
+    "name": "Ultra Tech Journey",
+    "subName": "Uniq Factory #1",
+    "description": "This UNIQ marks your participation in the first episode of the Ultra Tech Journey masterclass series, where you learned to create your first Uniq Factory and took your first steps into Web3 on Ultra.\nYou explored how to deploy your own UNIQ collection, understood the structure of UNIQs, and contributed to the growing creative economy on Ultra.io.\nMore than just a badge of attendance, this UNIQ is proof of your curiosity, initiative, and willingness to grow as a builder on the Ultra network.\n\nHolder Benefits:\n- Reimbursement of creation fees for 1 UNIQ collection\n- Beta access to upcoming Ultra Times dApps\nCherish this UNIQ as a token of your journey – and a key to future Ultra experiences.",
+    "defaultLoc": "en-US",
+    "author": "AllegorickBlock",
+    "media": {
+      "product": {
+        "contenType": "image/png",
+        "uris": [
+          "https://ultratimes.io/images/UltraTechJourney/UniqFactory.png"
+        ],
+        "integrity": {
+          "type": "SHA256",
+          "hash": "11337286de1ad8603aaa4291de1dfc497f7319c0efb764e163981b969a9f7b75"
+        }
+      },
+      "square": {
+        "contentType": "image/png",
+         "uris": [
+          "https://ultratimes.io/images/UltraTechJourney/UniqFactory.png"
+        ],
+        "integrity": {
+          "hash": "11337286de1ad8603aaa4291de1dfc497f7319c0efb764e163981b969a9f7b75"
+        }
+      },
+      "gallery": [],
+      "hero": {
+        "contentType": "image/png",
+        "uris": [
+          "https://ultratimes.io/images/UltraTechJourney/UltraTechJourney.png"
+        ],
+        "integrity": {
+          "type": "SHA256",
+          "hash": "43e8dc7898151f224daa73ceff7593ac491a19b6176e5ba5f27818747aafddbf"
+        }
+      }
+    }
+  }
