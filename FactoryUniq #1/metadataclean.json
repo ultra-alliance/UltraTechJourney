@@ -1,0 +1,41 @@
+{
+    "specVersion": "1.0",
+    "name": "",
+    "subName": "",
+    "description": "",
+    "author": "",
+    "defaultLocale": "en-US",
+    "media": {
+      "product": {
+        "contentType": "",
+        "integrity": {
+          "type": "",
+          "hash": ""
+        },
+        "uris": [
+          ""
+        ]
+      },
+      "square": {
+        "contentType": "",
+        "integrity": {
+          "type": "",
+          "hash": ""
+        },
+        "uris": [
+          ""
+        ]
+      },
+      "gallery": [],
+      "hero": {
+        "contentType": "",
+        "integrity": {
+          "type": "",
+          "hash": ""
+        },
+        "uris": [
+          ""
+        ]
+      }
+    }
+  }
